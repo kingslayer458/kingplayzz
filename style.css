@@ -90,8 +90,8 @@ nav ul li a{
     right: 0;
     bottom:0;
     z-index: -1;
-    height: 770px;
-    width: 1500px;
+    height:fit-content;
+    width:fit-content;
     
     
    
